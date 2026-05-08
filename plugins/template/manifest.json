@@ -7,10 +7,8 @@
       "id": ""
     }
   ],
-  "main": "src/index.tsx",
+  "main": "src/index.ts",
   "vendetta": {
-    "icon": "ic_message_edit"
-  },
-  "version": "1.0.0"
+    "icon": "ReactionIcon"
+  }
 }
-
